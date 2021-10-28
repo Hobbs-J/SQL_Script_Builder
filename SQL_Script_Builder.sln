@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_Script_Builder", "SQL_Script_Builder.csproj", "{1B9EA64A-6B60-4519-BADC-65519652F031}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "..\Installer\Installer.vdproj", "{C1D0CEAF-AC07-4F2B-9471-8C84D067346F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9EA64A-6B60-4519-BADC-65519652F031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9EA64A-6B60-4519-BADC-65519652F031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9EA64A-6B60-4519-BADC-65519652F031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9EA64A-6B60-4519-BADC-65519652F031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D0CEAF-AC07-4F2B-9471-8C84D067346F}.Debug|Any CPU.ActiveCfg = Debug
+		{C1D0CEAF-AC07-4F2B-9471-8C84D067346F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8EDEDC8-3BF2-435C-9D26-5FB6D5C238D2}
+	EndGlobalSection
+EndGlobal
